@@ -7,7 +7,7 @@
 	-  [Chroma Docs](https://docs.trychroma.com/docs/overview/introduction)
 	* [Chroma GitHub](https://docs.trychroma.com/docs/overview/introduction)
 * [Vector store](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Vector_Stores.md) 
-	* [Difference between Embeddings and Vector stores](Summer_Project/Embedded_Notes/Embeddings_vs_Vector_Stores) 
+	* [Difference between Embeddings and Vector stores](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Embeddings_vs_Vector_Stores.md)
 * LiveKit
 	* [LiveKit Docs](https://docs.livekit.io/intro/overview/)
 
