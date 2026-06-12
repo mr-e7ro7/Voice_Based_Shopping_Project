@@ -3,7 +3,7 @@
 ## Basic info
 Agentic workflows are systems where, instead of executing hardcoded steps, LLMs dynamically decide what actions to take and how to decompose problems based on the tools and tasks provided to them.
 
-#### Core Architecture
+### Core Architecture
 
 Every agentic system has roughly the same skeleton:
 
@@ -13,7 +13,7 @@ Perception → Reasoning (LLM) → Action → Observation → [loop]
 
 The LLM sits in the middle as the **controller**. It reads context, decides the next action, executes it via a tool, reads the result, and continues until the goal is met or it halts.
 
-#### Key Design Concepts
+### Key Design Concepts
 
 **Tool Use** — Agents act on the world through a defined toolset (web search, code execution, DB queries, APIs). The LLM generates a structured call; the environment executes it and returns an observation.
 
