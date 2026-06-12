@@ -1,4 +1,4 @@
-# Basic info
+## Basic info
 Agentic workflows are systems where, instead of executing hardcoded steps, LLMs dynamically decide what actions to take and how to decompose problems based on the tools and tasks provided to them.
 
 #### Core Architecture
