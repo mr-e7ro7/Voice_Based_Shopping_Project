@@ -1,10 +1,10 @@
 # Links
-- [Agentic workflow]([Summer_Project/Embedded_Notes/Agentic_Workflow](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Agentic_Workflow.md)) 
-- [RAG and Embeddings]([Summer_Project/Embedded_Notes/RAG_and_Embeddings](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/RAG_and_Embeddings.md)) 
-- [Qdrant or Chroma ]([Summer_Project/Embedded_Notes/Qdrant_and_Chroma](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Qdrant_and_Chroma.md))
+- [Agentic workflow](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Agentic_Workflow.md) 
+- [RAG and Embeddings](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/RAG_and_Embeddings.md)
+- [Qdrant or Chroma ](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Qdrant_and_Chroma.md)
 	-  [Chroma Docs](https://docs.trychroma.com/docs/overview/introduction)
 	* [Chroma GitHub](https://docs.trychroma.com/docs/overview/introduction)
-* [Vector store]([Summer_Project/Embedded_Notes/Vector_Stores](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Vector_Stores.md)) 
+* [Vector store](https://github.com/mr-e7ro7/Voice_Based_Shopping_Project/blob/main/Embedded_Notes/Vector_Stores.md) 
 	* [Difference between Embeddings and Vector stores](Summer_Project/Embedded_Notes/Embeddings_vs_Vector_Stores) 
 * LiveKit
 	* [LiveKit Docs](https://docs.livekit.io/intro/overview/)
